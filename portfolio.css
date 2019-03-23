@@ -1,0 +1,166 @@
+
+p{
+    font-size: 12px;
+    font-family: sans-serif;
+    /* padding-left: 10px;
+    padding-right: 10px; */
+    padding:10px;
+    margin:0 auto;
+}
+
+a {
+    padding-left: 10px;
+}
+#footer a {
+    font-size: 12px;
+    /* margin:0 auto; */
+    padding-left:0;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    color: black;
+}
+
+h3 {
+    margin:0 auto;
+    padding-left: 10px;
+    padding-top: 5px;
+    font-family: sans-serif;
+    color:white;
+}
+h2 {
+    margin:0 auto;
+    font-family: sans-serif;
+
+}
+
+h4 {
+    margin: auto;
+}
+#body h4 {
+    color:white;
+    font-family: sans-serif;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+#container {
+    background-image: radial-gradient(rgb(121, 84, 121),rgb(102, 71, 102),rgb(36, 27, 36));
+    min-height: 800px;
+    width: 780px;
+}
+
+#header {
+    background-color:whitesmoke;
+    min-height: 50px;
+}
+
+#name {
+    background-color:  whitesmoke;
+    text-align: left;
+    padding: 10px;
+}
+
+#image {
+    width: 349px;
+    height: 217px;
+    border: 4px solid rgb(175, 169, 169);
+}
+
+#disc {
+    background-color:whitesmoke;
+    text-align: right;
+    padding: 10px;
+    padding-left: 325px;
+}
+
+#aboutBottom{
+    /* padding-left: 10px;
+    padding-right: 10px; */
+    padding-top: 10px;
+}
+
+#about {
+    background-color: lavender;
+    /* font-size: 8;  */
+    word-wrap: normal;
+}
+
+#tech1 {
+    margin-top: 45px;
+}
+#tech2 {
+    margin-top: 30px;
+}
+#lmbutton {
+    margin-left: 75px;
+}
+#fcbutton {
+    margin-left: 60px;
+}
+#febutton {
+    margin-left: 70px;
+}
+#footer {
+    margin-top: 20px;
+    height: 50px;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.sectionhead {
+    background-color: rgb(146, 138, 138);
+    height: 30px;
+    background-image: radial-gradient(grey,rgba(192, 192, 192, 0.466),rgba(204, 201, 201, 0.13));
+}
+
+
+.head{
+    display: inline-block;
+}
+
+
+.blocktop {
+    background-color: aquamarine;
+    display: inline-block;
+    width: 353px;
+    height: 225px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    vertical-align: top;
+    margin-left: 25px;
+}
+
+.block {
+    background-color: lavender;
+    display: inline-block;
+    width: 225px;
+    height: 450px;
+    margin-left: 25px;
+    vertical-align: top;
+}
+
+.imgs {
+    width:225px;
+    height:100px;
+}
+
+.smallimg {
+    width: 27px;
+    height: 27px;
+    padding: 7px;
+}
+.tinyimg {
+    vertical-align: middle; 
+    width:15px;
+    height: 15px;
+}
+
+.button {
+    color: whitesmoke;
+    background-color: rgb(33, 117, 33);
+    border-radius: 10px;
+}
+
+.footnote {
+    vertical-align: middle;
+}
